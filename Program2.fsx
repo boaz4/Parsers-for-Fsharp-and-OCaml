@@ -1,12 +1,3 @@
-(*Boaz Alemseged
-COSC 455
-DUE: DEC 14 2021
-*)
-
-
-
-
-
 //grammar
 //program       : stmt_list $$
 //stmt_list     : stmt stmt_list | ε 
